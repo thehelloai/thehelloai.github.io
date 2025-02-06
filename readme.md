@@ -16,7 +16,7 @@
 
 ## 🚀 Live Demo
 
-[**Try it out here!**](https://Test.com)
+[**Try it out here!**](https://hellotoai.vercel.app/)
 
 ---
 
